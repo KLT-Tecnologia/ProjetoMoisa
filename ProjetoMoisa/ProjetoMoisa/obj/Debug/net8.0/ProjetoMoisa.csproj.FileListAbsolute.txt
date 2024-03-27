@@ -1,0 +1,15 @@
+C:\Users\Samsung\Documents\Repositorios\klt\ProjetoMoisa\ProjetoMoisa\ProjetoMoisa\bin\Debug\net8.0\ProjetoMoisa.exe
+C:\Users\Samsung\Documents\Repositorios\klt\ProjetoMoisa\ProjetoMoisa\ProjetoMoisa\bin\Debug\net8.0\ProjetoMoisa.deps.json
+C:\Users\Samsung\Documents\Repositorios\klt\ProjetoMoisa\ProjetoMoisa\ProjetoMoisa\bin\Debug\net8.0\ProjetoMoisa.runtimeconfig.json
+C:\Users\Samsung\Documents\Repositorios\klt\ProjetoMoisa\ProjetoMoisa\ProjetoMoisa\bin\Debug\net8.0\ProjetoMoisa.dll
+C:\Users\Samsung\Documents\Repositorios\klt\ProjetoMoisa\ProjetoMoisa\ProjetoMoisa\bin\Debug\net8.0\ProjetoMoisa.pdb
+C:\Users\Samsung\Documents\Repositorios\klt\ProjetoMoisa\ProjetoMoisa\ProjetoMoisa\obj\Debug\net8.0\ProjetoMoisa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\Documents\Repositorios\klt\ProjetoMoisa\ProjetoMoisa\ProjetoMoisa\obj\Debug\net8.0\ProjetoMoisa.AssemblyInfoInputs.cache
+C:\Users\Samsung\Documents\Repositorios\klt\ProjetoMoisa\ProjetoMoisa\ProjetoMoisa\obj\Debug\net8.0\ProjetoMoisa.AssemblyInfo.cs
+C:\Users\Samsung\Documents\Repositorios\klt\ProjetoMoisa\ProjetoMoisa\ProjetoMoisa\obj\Debug\net8.0\ProjetoMoisa.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Documents\Repositorios\klt\ProjetoMoisa\ProjetoMoisa\ProjetoMoisa\obj\Debug\net8.0\ProjetoMoisa.sourcelink.json
+C:\Users\Samsung\Documents\Repositorios\klt\ProjetoMoisa\ProjetoMoisa\ProjetoMoisa\obj\Debug\net8.0\ProjetoMoisa.dll
+C:\Users\Samsung\Documents\Repositorios\klt\ProjetoMoisa\ProjetoMoisa\ProjetoMoisa\obj\Debug\net8.0\refint\ProjetoMoisa.dll
+C:\Users\Samsung\Documents\Repositorios\klt\ProjetoMoisa\ProjetoMoisa\ProjetoMoisa\obj\Debug\net8.0\ProjetoMoisa.pdb
+C:\Users\Samsung\Documents\Repositorios\klt\ProjetoMoisa\ProjetoMoisa\ProjetoMoisa\obj\Debug\net8.0\ProjetoMoisa.genruntimeconfig.cache
+C:\Users\Samsung\Documents\Repositorios\klt\ProjetoMoisa\ProjetoMoisa\ProjetoMoisa\obj\Debug\net8.0\ref\ProjetoMoisa.dll
