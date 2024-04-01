@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Globalization;
 using System.Runtime.InteropServices;
+using System.IO;
 
 namespace Teste1
 {
@@ -78,7 +79,17 @@ namespace Teste1
             Console.WriteLine();
             Console.WriteLine("Idioma: " + h);
 
-
+            StreamWriter sw = new StreamWriter("c://Armazenar//Kaio Luna Teles - 02968858351.txt");
+            sw.WriteLine("Nome completo: " + a);
+            sw.WriteLine(x + "anos");
+            sw.WriteLine("Contatos: " + y + " | " + b);
+            sw.WriteLine("Vaga pretendida: " + c);
+            sw.WriteLine("Objetivo profissional: " + d);
+            sw.WriteLine("Experiências profissionais: " + e);
+            sw.WriteLine("Formação Acadêmica: " + f);
+            sw.WriteLine("Habilidades Profissionais: " + g);
+            sw.WriteLine("Idioma: " + h);
+            sw.Close();
 
         }
     }
